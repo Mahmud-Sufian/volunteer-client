@@ -1,0 +1,24 @@
+.login-form form{
+    width: 40%;
+    margin: 10px auto;
+    background-color: rgb(98, 98, 214);
+}
+.login-form input{
+    width: 100%;
+    height: 40px;
+    margin-top: 25px;
+    background-color: rgb(167, 193, 218);
+    color: rgb(202, 100, 88);
+    outline-color: rgb(204, 110, 99);
+    border: none;
+}
+.login-form input[type=submit]{
+    background-color: salmon;
+    color: #fff;
+    width: 100%;
+    font-weight: bold;
+}
+.login-form label{
+    margin-left: 40%;
+    color: #fff;
+}

@@ -1,0 +1,18 @@
+ .myForm{
+     margin: auto;
+     width: 600px; 
+ }
+ .myForm input{
+    width: 100%; 
+ }
+ 
+.myForm input[type=submit]{
+     width: 300px;
+     margin-left: 25%;
+     font-weight: bold;
+     text-transform: uppercase;
+     color: rgb(124, 56, 56);;
+ }
+ .myForm input[type=submit]:hover{
+     background:rgb(220, 235, 202);
+ }
