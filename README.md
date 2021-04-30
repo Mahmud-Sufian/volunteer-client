@@ -12,7 +12,7 @@
 -A volunteer admin can organise a new volunteer event,every participant under control in admin ,admin can remove any participation at any time.
 
 ### Technology:
--React
+- React
 <br/>
 -React-router
 <br/>
